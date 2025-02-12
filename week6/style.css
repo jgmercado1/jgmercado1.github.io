@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.box1, .box2, .box3, .box4{
+    width: 35%;
+    height: 100px;
+}
+
+row{
+    display: flex;
+}
+
+.box1{
+    background-color: blueviolet;
+}
+
+.box2{
+    background-color: brown;
+}
+
+.box3{
+    background-color: darkcyan;
+}
+
+.box4{
+    background-color: dodgerblue;
+}
+.box5, .box6, .box7{
+    width: 35%;
+    height: 100px;
+}
+
+.box5{
+    background-color: blueviolet;
+}
+
+.box6{
+    background-color: brown;
+}
+
+.box7{
+    background-color: darkcyan;
+}
+
+.box8, .box9{
+    width: 35%;
+    height: 100px;
+}
+
+.box8{
+    background-color: burlywood;
+}
+
+.box9{
+    background-color: green;
+}
